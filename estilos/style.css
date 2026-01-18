@@ -31,3 +31,11 @@ main{
     width: 311px;
     background: url('../pacote-d013/pacote-d013/imagens/frame-iphone.png') no-repeat;
 }
+
+iframe{
+    position: absolute;
+    top: 81px;
+    left: 22px;
+    width: 267px;
+    height: 470px;
+}
